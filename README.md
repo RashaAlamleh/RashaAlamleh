@@ -1,15 +1,18 @@
-### Hi there ![image](https://user-images.githubusercontent.com/69910698/169696867-6b57a1c7-9c87-4ca2-82ca-76c116bcf80e.png)
+### Hi there :wave::smile:
 
-
+- :muscle: I am a passionate self-learner engineer. 
+- :eyes:looking forward to learning new things.
+- 🌱 I’m currently learning react.
+- 📫 How to reach me: :e-mail: r.alamleh@gmail.com || https://www.linkedin.com/in/rashaamleh/
+- I am looking for a job as a frontend develpoer using react and next.js.
 <!--
 **RashaAlamleh/RashaAlamleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- :muscle: I am a passionate self-learner engineer 
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on frontend project 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- :muscle: I am a passionate self-learner engineer. 
+- :eyes:looking forward to learning new things.
+- 🌱 I am currently learning react.
+- 📫 How to reach me: :e-mail: r.alamleh@gmail.com || https://www.linkedin.com/in/rashaamleh/
+-  I am looking for a job as a frontend engineer. 
 - ⚡ Fun fact: ...
 -->
